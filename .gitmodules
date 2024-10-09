@@ -1,0 +1,3 @@
+[submodule "main-config"]
+	path = main-config
+	url = https://github.com/Denniskamau/main-config.git
